@@ -1,0 +1,10 @@
+{
+  "name": "static-site-starter",
+  "version": "0.1.0",
+  "description": "Minimal static site scaffold",
+  "scripts": {
+    "start": "npx serve . -l 5000"
+  },
+  "author": "",
+  "license": "MIT"
+}
