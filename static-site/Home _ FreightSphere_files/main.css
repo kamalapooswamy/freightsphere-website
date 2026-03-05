@@ -1,4 +1,4 @@
-﻿@charset "UTF-8";
+@charset "UTF-8";
 
 .pricing .ui-widget.ui-widget-content {
     border: none
@@ -859,7 +859,7 @@ h4 {
     }
 
     .header-home .header-home__description {
-        width: 490px;
+        width: 400px;
         font-size: 18px;
         line-height: 36px;
         margin-bottom: 60px;
